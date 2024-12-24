@@ -1,3 +1,19 @@
+body {
+    font-family: "Montserrat", serif;
+    background-color: rgba(11, 1, 33, 1);
+    color: rgba(236, 236, 236, 1);
+}
+
 .container{
     width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+}
+
+.page-btn{
+    border: 1px solid rgba(236, 236, 236, 1);
+    border-radius: 60px;
+    color: rgba(236, 236, 236, 1);
+    background-color: transparent;
 }

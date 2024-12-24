@@ -1,0 +1,17 @@
+.header-wrapper{
+    padding: 0 120px;
+    background-color: rgba(11, 1, 33, 1);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-nav-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-nav-list-item-link{
+    text-decoration: none;
+}
+
