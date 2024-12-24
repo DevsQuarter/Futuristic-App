@@ -1,0 +1,10 @@
+.features-title {
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 57.6px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
