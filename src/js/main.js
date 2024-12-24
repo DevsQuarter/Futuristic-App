@@ -1,14 +1,14 @@
 $(document).ready(() => {
   // Header
-  $('#page-header').load('partials/header.html');
+  $('#page-header').load('src/partials/header.html');
   // Hero
-  $('#hero').load('partials/hero.html');
+  $('#hero').load('src/partials/hero.html');
   // Organizations
-  $('#organizations').load('partials/organizations.html');
+  $('#organizations').load('src/partials/organizations.html');
   // Features
-  $('#features').load('partials/features.html');
+  $('#features').load('src/partials/features.html');
   // Downloads
-  $('#downloads').load('partials/downloads.html');
+  $('#downloads').load('src/partials/downloads.html');
   // Footer
-  $('#page-footer').load('partials/footer.html');
+  $('#page-footer').load('src/partials/footer.html');
 });
