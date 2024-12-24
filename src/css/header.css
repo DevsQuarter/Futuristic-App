@@ -3,15 +3,52 @@
     background-color: rgba(11, 1, 33, 1);
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
 
+.header-logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.logo-image{
+    height: 22px;
+    width: 22px;
+    gap: 10px;
+}
+
+.logo-text{
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: -0.03;
 }
 
 .header-nav-list{
     display: flex;
     justify-content: space-between;
+    list-style: none;
+    gap: 32px;
+}
+
+.header-nav-list:nth-child(4) {
+    width: 189px;
+    height: 40px;
+}
+
+.header-nav-list:nth-child(5) {
+    width: 173px;
+    height: 40px;
 }
 
 .header-nav-list-item-link{
     text-decoration: none;
+    color: rgba(236, 236, 236, 1);
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: center;
 }
+
+
 
