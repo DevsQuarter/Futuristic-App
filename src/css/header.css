@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 72px;
 }
 
 .header-logo{
@@ -26,28 +27,19 @@
 .header-nav-list{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     list-style: none;
     gap: 32px;
 }
 
-.header-nav-list:nth-child(4) {
-    width: 189px;
-    height: 40px;
-}
-
-.header-nav-list:nth-child(5) {
-    width: 173px;
-    height: 40px;
+.header-btn{
+    padding: 8px 20px;
 }
 
 .header-nav-list-item-link{
     text-decoration: none;
-    color: rgba(236, 236, 236, 1);
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
     text-align: center;
 }
-
-
-
