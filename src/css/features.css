@@ -2,6 +2,12 @@ h2,
 h3,
 p {
     color: #ECECEC;
+}
+
+.features-title p,
+.features-middle_box-one p,
+.features-middle_box-two p,
+.features-end-box p {
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -81,7 +87,7 @@ p {
 }
 
 .features-end-box .features-end-box-img {
-    box-shadow: 0px 0px 37px 0px rgba(201, 37, 171, 0.75);
+    box-shadow: 0px 0px 36.45px 0px rgba(201, 37, 171, 0.75);
     border-radius: 10px;
 }
 
