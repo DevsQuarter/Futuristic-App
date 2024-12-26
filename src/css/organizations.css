@@ -2,11 +2,10 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
-  width: 664px;
-  height: 26px;
   text-align: center;
   color: #ffffff;
   margin: auto;
+  opacity: 0.8;
 }
 .organizations-ul {
   display: flex;
