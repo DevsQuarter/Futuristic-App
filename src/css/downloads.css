@@ -1,0 +1,36 @@
+.container-downloads {
+  background-color: #0b0121;
+  border-radius: 20px;
+  height: 540px;
+  width: 1200px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-downloads .page-btn {
+  width: 197px;
+  height: 48px;
+  font-size: 16px;
+  align-items: center;
+  display: block;
+  text-align: center;
+}
+.downloads-h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57.6px;
+  text-align: center;
+  width: 768px;
+  /* height: 116px;*/
+}
+.downloads-p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  width: 768px;
+  align-items: center;
+}
